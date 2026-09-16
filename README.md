@@ -21,3 +21,5 @@ git status
 ## Merge-conflict practice
 
 Leave the following line unchanged until your instructor starts the controlled merge-conflict exercise.
+
+## Favorite Git Command: TBD
